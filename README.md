@@ -7,4 +7,4 @@ This course emphasis not just about the algorithm widely use but also how to tur
 3. <b><i>Regression</i><b><br>
 4. <b><i>Neural Network</i><b><br>
 
-<i>by Kenneth PIWELE</i>
+<right><i>by Kenneth PIWELE</i></right>
