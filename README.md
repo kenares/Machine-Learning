@@ -7,5 +7,6 @@ This course emphasis not just about the algorithm widely use but also how to tur
 2. <b><i>Classification</i></b><br>
 3. <b><i>Regression</i></b><br>
 4. <b><i>Neural Network</i></b><br>
+5. <b><i>Real World case studies</i></b><br>
 
 <right><i>by Kenneth PIWELE</i></right>
